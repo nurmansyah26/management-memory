@@ -1,2 +1,2 @@
 ## Hasil Running Monoprograming
-![ss](public\monoprog.png)
+![ss](public/monoprog.png)
